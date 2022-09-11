@@ -1,8 +1,8 @@
-import { ReactComponent as ReactLogo } from "../../assets/svg/logo/react.svg";
-import { ReactComponent as LaravelLogo } from "../../assets/svg/logo/laravel.svg";
-import { ReactComponent as TailwindcssLogo } from "../../assets/svg/logo/tailwindcss.svg";
-import { ReactComponent as FirebaseLogo } from "../../assets/svg/logo/firebase.svg";
-import { ReactComponent as BootstrapLogo } from "../../assets/svg/logo/bootstrap.svg";
+import { ReactComponent as ReactLogo } from "assets/svg/logo/react.svg";
+import { ReactComponent as LaravelLogo } from "assets/svg/logo/laravel.svg";
+import { ReactComponent as TailwindcssLogo } from "assets/svg/logo/tailwindcss.svg";
+import { ReactComponent as FirebaseLogo } from "assets/svg/logo/firebase.svg";
+import { ReactComponent as BootstrapLogo } from "assets/svg/logo/bootstrap.svg";
 import { motion } from "framer-motion";
 
 const SoftwareSection = () => {

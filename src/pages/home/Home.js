@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import ConnectSection from "../../components/home/ConnectSection";
-import HeroSection from "../../components/home/HeroSection";
-import LetUsCallYouSection from "../../components/home/LetUsCallYouSection";
-import SoftwareSection from "../../components/home/SoftwareSection";
+import ConnectSection from "components/home/ConnectSection";
+import HeroSection from "components/home/HeroSection";
+import LetUsCallYouSection from "components/home/LetUsCallYouSection";
+import SoftwareSection from "components/home/SoftwareSection";
 
 const Home = () => {
   return (

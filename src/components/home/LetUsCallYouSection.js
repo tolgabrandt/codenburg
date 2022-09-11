@@ -1,4 +1,4 @@
-import { ReactComponent as Phone } from "../../assets/svg/icons/telephone-fill.svg";
+import { ReactComponent as Phone } from "assets/svg/icons/telephone-fill.svg";
 import { motion } from "framer-motion";
 
 const LetUsCallYouSection = () => {

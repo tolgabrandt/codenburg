@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ReactComponent as ChevronICON } from "../../assets/svg/icons/chevron-left.svg";
+import { ReactComponent as ChevronICON } from "assets/svg/icons/chevron-left.svg";
 
 const Application = () => {
   return (

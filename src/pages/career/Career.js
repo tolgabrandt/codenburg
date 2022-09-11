@@ -1,10 +1,10 @@
 import { Link, Outlet } from "react-router-dom";
-import LogoCareer from "../../assets/svg/logo/logo-career.svg";
-import { ReactComponent as FileICON } from "../../assets/svg/icons/file.svg";
-import { ReactComponent as PersonICON } from "../../assets/svg/icons/person.svg";
-import { ReactComponent as LinkedinICON } from "../../assets/svg/icons/linkedin.svg";
-import { ReactComponent as TwitterICON } from "../../assets/svg/icons/twitter.svg";
-import { ReactComponent as GlobeICON } from "../../assets/svg/icons/globe.svg";
+import LogoCareer from "assets/svg/logo/logo-career.svg";
+import { ReactComponent as FileICON } from "assets/svg/icons/file.svg";
+import { ReactComponent as PersonICON } from "assets/svg/icons/person.svg";
+import { ReactComponent as LinkedinICON } from "assets/svg/icons/linkedin.svg";
+import { ReactComponent as TwitterICON } from "assets/svg/icons/twitter.svg";
+import { ReactComponent as GlobeICON } from "assets/svg/icons/globe.svg";
 import { useEffect, useState } from "react";
 
 const Career = () => {

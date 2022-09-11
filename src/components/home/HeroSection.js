@@ -1,5 +1,5 @@
-import { ReactComponent as Activity } from "../../assets/svg/icons/activity.svg";
-import { ReactComponent as Robot } from "../../assets/svg/bg/robot.svg";
+import { ReactComponent as Activity } from "assets/svg/icons/activity.svg";
+import { ReactComponent as Robot } from "assets/svg/bg/robot.svg";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 

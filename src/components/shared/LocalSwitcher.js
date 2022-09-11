@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { ReactComponent as X } from "../../assets/svg/icons/x.svg";
-import SwitcherButton from "../dropdown/SwitcherButton";
+import { ReactComponent as X } from "assets/svg/icons/x.svg";
+import SwitcherButton from "components/dropdown/SwitcherButton";
 
 const LocalSwitcher = () => {
   const [openSwitcher, setOpenSwitcher] = useState(true);

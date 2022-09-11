@@ -1,6 +1,6 @@
-import { ReactComponent as Power } from "../../assets/svg/icons/power.svg";
-import DashboardIMG from "../../assets/svg/images/dashboard.svg";
-import SwitcherButton from "../dropdown/SwitcherButton";
+import { ReactComponent as Power } from "assets/svg/icons/power.svg";
+import DashboardIMG from "assets/svg/images/dashboard.svg";
+import SwitcherButton from "components/dropdown/SwitcherButton";
 import { motion } from "framer-motion";
 
 const ConnectSection = () => {

@@ -1,7 +1,7 @@
-import { ReactComponent as CheckICON } from "../../assets/svg/icons/check-circle-fill.svg";
+import { ReactComponent as CheckICON } from "assets/svg/icons/check-circle-fill.svg";
 
-import { ReactComponent as HalfCircleBG } from "../../assets/svg/bg/half-circle-blue.svg";
-import { ReactComponent as DottedCircleBG } from "../../assets/svg/bg/dotted-circle-green.svg";
+import { ReactComponent as HalfCircleBG } from "assets/svg/bg/half-circle-blue.svg";
+import { ReactComponent as DottedCircleBG } from "assets/svg/bg/dotted-circle-green.svg";
 const Offers = () => {
   return (
     <section className="px-6 flex items-center py-0 sm:py-8">

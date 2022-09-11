@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { ReactComponent as GeoICON } from "../../assets/svg/icons/geo-alt-fill.svg";
-import { ReactComponent as ShareICON } from "../../assets/svg/icons/share-fill.svg";
+import { ReactComponent as GeoICON } from "assets/svg/icons/geo-alt-fill.svg";
+import { ReactComponent as ShareICON } from "assets/svg/icons/share-fill.svg";
 
 const JobList = () => {
   return (

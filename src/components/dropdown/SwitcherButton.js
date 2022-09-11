@@ -1,5 +1,5 @@
-import { ReactComponent as Usflag } from "../../assets/svg/flag/us.svg";
-import { ReactComponent as CaretDown } from "../../assets/svg/icons/caret-down.svg";
+import { ReactComponent as Usflag } from "assets/svg/flag/us.svg";
+import { ReactComponent as CaretDown } from "assets/svg/icons/caret-down.svg";
 
 const SwitcherButton = ({ value, height }) => {
   return (
