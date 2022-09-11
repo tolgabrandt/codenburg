@@ -87,16 +87,8 @@ const HeroSection = () => {
           </div>
         </div>
         <div className="flex justify-center">
-          <motion.div
-            className="hover:cursor-pointer"
-            initial={{ scale: 0.01, x: -275 }}
-            whileInView={{ scale: 1, x: 0 }}
-            transition={{ type: "spring", stiffness: "25" }}
-            drag
-            viewport={{ once: true }}
-          >
-            <Robot />
-          </motion.div>
+          <Robot />
+
           <div></div>
         </div>
       </div>

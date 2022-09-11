@@ -4,8 +4,8 @@ import { ReactComponent as HalfCircleBG } from "../../assets/svg/bg/half-circle-
 import { ReactComponent as DottedCircleBG } from "../../assets/svg/bg/dotted-circle-green.svg";
 const Offers = () => {
   return (
-    <section className="px-6 flex items-center py-8">
-      <div className="max-w-[1240px] mx-auto py-8 grid sm:grid-cols-2 gap-32">
+    <section className="px-6 flex items-center py-0 sm:py-8">
+      <div className="max-w-[1240px] mx-auto py-8 grid sm:grid-cols-2 gap-16 sm:gap-32">
         <section className="flex flex-col gap-6">
           <h1 className="heading-2">
             Fill out the form to get an offer about our products and we will
@@ -28,13 +28,9 @@ const Offers = () => {
               <CheckICON /> Recusandae dolorem non quas fuga aperiam voluptate!
             </li>
           </ul>
-
-          <div className="border-t border-gray-200 border-b p-6">
-            <HeroBrandBG />
-          </div>
         </section>
         <section className="relative ">
-          <section className="p-8 border border-gray-200 bg-white rounded-lg flex flex-col gap-6 ">
+          <section className="p-6 sm:p-8 border border-gray-200 bg-white rounded-lg flex flex-col gap-6 ">
             <div className="flex flex-col gap-4">
               <h1 className="text-xl">
                 <span className="font-medium">Offer Form</span>

@@ -48,7 +48,7 @@ const Career = () => {
             </span>
 
             <span className="bg-slate-50 inline-flex items-center gap-2 text-sm font-light h-[24px] px-4 rounded-md">
-              <PersonICON /> 5-20 People
+              <PersonICON /> 5-20
             </span>
 
             <span className="bg-slate-50 inline-flex items-center gap-2 text-sm font-light h-[24px] px-2 rounded-md ">

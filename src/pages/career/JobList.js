@@ -26,9 +26,10 @@ const JobList = () => {
 
               <article>
                 <p className="text-slate-500">
-                  Tibbo's mission is to make IoT accessible to everyone. From
-                  small businesses turning on lights to multinationa
-                  conglomerates automating
+                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit,
+                  libero iste ex et ad qui nulla sint iure tenetur. Distinctio
+                  debitis quis quod iusto nulla exercitationem amet architecto
+                  eaque quasi.
                 </p>
               </article>
 
@@ -38,7 +39,7 @@ const JobList = () => {
                     <GeoICON /> Remote
                   </span>
                   <span className="bg-slate-50 inline-flex items-center gap-2 text-sm font-light h-[24px] px-4 rounded-md">
-                    <ShareICON /> Share this job
+                    <ShareICON /> Share
                   </span>
                 </div>
                 <div>
