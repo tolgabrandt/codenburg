@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import BlogSection from "../../components/home/BlogSection";
 import ConnectSection from "../../components/home/ConnectSection";
 import HeroSection from "../../components/home/HeroSection";
 import LetUsCallYouSection from "../../components/home/LetUsCallYouSection";
