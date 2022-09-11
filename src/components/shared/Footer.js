@@ -2,7 +2,7 @@ import Logo from "../../assets/svg/logo/logo.svg";
 const Footer = () => {
   return (
     <>
-      <footer class="p-4 bg-slate-50 rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-900 font-light ">
+      <footer class="p-4 bg-slate-50 rounded-lg shadow md:px-6 md:py-8 font-light ">
         <div class="sm:flex sm:items-center sm:justify-between max-w-[1240px] mx-auto">
           <a
             href="https://github.com/tolgabrandt"
@@ -10,7 +10,7 @@ const Footer = () => {
           >
             <img src={Logo} alt="Codenburg Logo" />
           </a>
-          <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
+          <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 ">
             <li>
               <a
                 href="https://github.com/tolgabrandt"
@@ -42,8 +42,8 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-        <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
+        <hr class="my-6 border-gray-200 sm:mx-auto  lg:my-8" />
+        <span class="block text-sm text-gray-500 sm:text-center ">
           © 2022{" "}
           <a href="https://github.com/tolgabrandt" class="hover:underline">
             Codenburg™
