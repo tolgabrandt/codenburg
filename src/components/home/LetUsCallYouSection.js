@@ -35,9 +35,9 @@ const LetUsCallYouSection = () => {
             </motion.div>
           </div>
           <p className="text-sm font-light text-slate-200">
-            By subscribing, you agree with Revue’s{" "}
-            <span className="text-blue-600">Terms of Service and Privacy</span>{" "}
-            Policy.
+            By subscribing, dolor sit amet consectetur aua's{" "}
+            <span className="text-blue-600">Nsciunt Perspiciatis </span> tempora
+            eius.
           </p>
         </div>
       </div>
